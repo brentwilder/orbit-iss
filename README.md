@@ -1,8 +1,8 @@
 
 ```
 $ git clone https://github.com/brentwilder/orbit-iss.git
-$ conda env create -f conda.yml
-$ conda activate snow
+$ conda env create -f orbit.yml
+$ conda activate orbit
 
 ```
 
